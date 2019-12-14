@@ -1,4 +1,4 @@
-base = input("Введите выражение для вычисления: ")
+base = "3+5+6+(5+6)"#i nput("Введите выражение для вычисления: ")
 base = base.replace(' ', '')
 # base перемннная ввода
 operands = []
@@ -8,6 +8,8 @@ operators = []
 begin = 0
 end = 1
 
+# блок обработки строки в массивы, принимает строку и возвращает масссив чисел и знаков
+# ДОРАБОТАТЬ ВОЗМОЖНОСТЬ ВВОДА ПЕРВОГО ЗНАКА, НАПРИМЕР -1
 while True:
     print(f"begin = {begin}, end = {end}")
     if end >= len(base):
@@ -68,33 +70,63 @@ while True:
         begin = end+1
         end = end+2
         continue
-
+    elif '(' in base[begin:end+1]:
+        # ЭТОТ БЛОК ИМЕЕТ СМЫСЛ ДОБАВИТЬ В ФУНКЦИЮ!
+        operators.append(base[end])
+        # добовление первого оператора в массив
+        operands.append(int(base[begin:end]))
+        # доблвление первого операнда
+        # assert(operands[0] == 20), f"первый оператор определен неправильно, ожидалось 2, получено {operands[0]}"
+        # проверка первого оператора
+        begin = end+1
+        end = end+2
+        continue
+    elif ')' in base[begin:end+1]:
+        # ЭТОТ БЛОК ИМЕЕТ СМЫСЛ ДОБАВИТЬ В ФУНКЦИЮ!
+        operators.append(base[end])
+        # добовление первого оператора в массив
+        operands.append(int(base[begin:end]))
+        # доблвление первого операнда
+        # assert(operands[0] == 20), f"первый оператор определен неправильно, ожидалось 2, получено {operands[0]}"
+        # проверка первого оператора
+        begin = end+1
+        end = end+2
+        continue
     end = end + 1
 
 
 print(operators)
 print(operands)
 
-for sign in operators:
-    if sign == '*':
-        operands[operators.index('*')] *= operands[operators.index('*')+1]
-        del operands[operators.index('*')+1]
-    if sign == '/':
-        operands[operators.index('/')] /= operands[operators.index('/') + 1]
-        del operands[operators.index('/') + 1]
-
-i = 1
-# индекс операндов
-ans = operands[0]
-
-# выполняет операции сложения, вычитания.
-for sign in operators:
-    if sign == '+':
-        ans += operands[i]
-        i += 1
-    if sign == '-':
-        ans -= operands[i]
-        i += 1
 
 
+"""
+# функция выполнения математических операций
+def calculating(operators, operands):
+
+    for sign in operators:
+        if sign == '*':
+            operands[operators.index('*')] *= operands[operators.index('*')+1]
+            del operands[operators.index('*')+1]
+        if sign == '/':
+            operands[operators.index('/')] /= operands[operators.index('/') + 1]
+            del operands[operators.index('/') + 1]
+    
+    i = 1
+    # индекс операндов
+    ans = operands[0]
+    
+    # выполняет операции сложения, вычитания.
+    for sign in operators:
+        if sign == '+':
+            ans += operands[i]
+            i += 1
+        if sign == '-':
+            ans -= operands[i]
+            i += 1
+    return ans
+
+
+ans = calculating(operators, operands)
 print(f"{base} = {ans}")
+"""
