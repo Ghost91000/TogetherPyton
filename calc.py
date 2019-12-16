@@ -9,7 +9,7 @@ outp = base
 
 
 def str_to_source(inp_string):
-    # Функция принимает строку и распределяет ее на массив чисел и массив знаков
+    # Функция принимает строку и распределяет ее на массив чисел и массив знаков, возвращает инт число
     begin = 0
     end = 1
     operands = []
@@ -124,27 +124,30 @@ def str_to_source(inp_string):
     return ans
 
 
-mass_op = []
-mass_cl = []
-i = 0
-for a in base:
-    if a == "(":
-        mass_op.append(i)
-    elif a == ")":
-        mass_cl.append(i)
-    i += 1
-assert (len(mass_cl) == len(mass_op)), "Ошибка ввода! Введены неверные скобки"
+if '(' in base:
+    mass_op = []
+    mass_cl = []
+    i = 0
+    for a in base:
+        if a == "(":
+            mass_op.append(i)
+        elif a == ")":
+            mass_cl.append(i)
+        i += 1
+    assert (len(mass_cl) == len(mass_op)), "Ошибка ввода! Введены неверные скобки"
 
-op = -1
-cl = 0
-while True:
-    # print(base[base.rfind('(') + 1:base.find(')')])
-    base = base[0:base.rfind('(')] + str(str_to_source(base[base.rfind('(') + 1:base.find(')')])) + base[base.find(')') + 1:len(base)]
-    # print(base)
+    op = -1
+    cl = 0
+    while True:
+        print(base[base.rfind('(') + 1:base.find(')')])
+        base = base[0:base.rfind('(')] + str(str_to_source(base[base.rfind('(') + 1:base.find(')', base.rfind('('))])) + base[base.find(')') + 1:len(base)]
+        print(base)
 
-    cl += 1
-    if cl >= len(mass_cl):
-        break
+        cl += 1
+        if cl >= len(mass_cl):
+            break
+
+base = str_to_source(base)
 
 print(f"{outp} = {base}")
 
