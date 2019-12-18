@@ -83,9 +83,11 @@ def str_to_source(inp_string):
         if sign == '*':
             operands[operators.index('*')] *= operands[operators.index('*') + 1]
             del operands[operators.index('*') + 1]
+            del operators[operators.index(sign)]
         if sign == '/':
             operands[operators.index('/')] /= operands[operators.index('/') + 1]
             del operands[operators.index('/') + 1]
+            del operators[operators.index(sign)]
 
     i = 1
     # индекс операндов
