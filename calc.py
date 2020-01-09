@@ -19,7 +19,7 @@ def str_to_source(inp_string):
     while True:
         # print(f"begin = {begin}, end = {end}")
         if end >= len(inp_string):
-            operands.append(int(inp_string[begin:end]))
+            operands.append(float(inp_string[begin:end]))
             # выполняется в конце обработки строки, добовляя последнее число
             break
         try:
@@ -27,7 +27,7 @@ def str_to_source(inp_string):
             Этот блок должен ловить ошибки ввода, в случае если введены другие символы кроме чисел и знаков
             Следует доработать функционал поиска ошибок, т.к. Ошибка выводится, но код продолжает выполняться в прежнем режиме
             """
-            int(inp_string[begin:end])
+            float(inp_string[begin:end])
         except ValueError:
             print("Вероятно число введено неверно")
 
@@ -35,7 +35,7 @@ def str_to_source(inp_string):
             # ЭТОТ БЛОК ИМЕЕТ СМЫСЛ ДОБАВИТЬ В ФУНКЦИЮ!
             operators.append(inp_string[end])
             # добовление первого оператора в массив
-            operands.append(int(inp_string[begin:end]))
+            operands.append(float(inp_string[begin:end]))
             # доблвление первого операнда
             # assert(operands[0] == 20), f"первый оператор определен неправильно, ожидалось 2, получено {operands[0]}"
             # проверка первого оператора
@@ -47,7 +47,7 @@ def str_to_source(inp_string):
             # ЭТОТ БЛОК ИМЕЕТ СМЫСЛ ДОБАВИТЬ В ФУНКЦИЮ!
             operators.append(inp_string[end])
             # добовление первого оператора в массив
-            operands.append(int(inp_string[begin:end]))
+            operands.append(float(inp_string[begin:end]))
             # доблвление первого операнда
             # assert(operands[0] == 20), f"первый оператор определен неправильно, ожидалось 2, получено {operands[0]}"
             # проверка первого оператора
@@ -58,7 +58,7 @@ def str_to_source(inp_string):
             # ЭТОТ БЛОК ИМЕЕТ СМЫСЛ ДОБАВИТЬ В ФУНКЦИЮ!
             operators.append(inp_string[end])
             # добовление первого оператора в массив
-            operands.append(int(inp_string[begin:end]))
+            operands.append(float(inp_string[begin:end]))
             # доблвление первого операнда
             # assert(operands[0] == 20), f"первый оператор определен неправильно, ожидалось 2, получено {operands[0]}"
             # проверка первого оператора
@@ -69,7 +69,7 @@ def str_to_source(inp_string):
             # ЭТОТ БЛОК ИМЕЕТ СМЫСЛ ДОБАВИТЬ В ФУНКЦИЮ!
             operators.append(inp_string[end])
             # добовление первого оператора в массив
-            operands.append(int(inp_string[begin:end]))
+            operands.append(float(inp_string[begin:end]))
             # доблвление первого операнда
             # assert(operands[0] == 20), f"первый оператор определен неправильно, ожидалось 2, получено {operands[0]}"
             # проверка первого оператора
