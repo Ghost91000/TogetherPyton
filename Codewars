@@ -1,0 +1,37 @@
+list1 = {'0': ['0', '8'], '1': ['1', '2', '4'], '2': ['1', '2', '3', '5'], '3': ['2', '3', '6'],
+         '4': ['1', '4', '5', '7'], '5': ['2', '4', '5', '6', '8'], '6': ['3', '5', '6', '9'], '7': ['4', '7', '8'],
+         '8': ['5', '7', '8', '9'], '9': ['6', '8', '9']}
+input_ = '11'
+
+values = []
+for str in input_:
+    values.append(list1[str])
+
+lines = []
+
+
+def loop_(out, line):
+    if len(line) == 0:
+        for sign in out[0]:
+            line.append(sign)
+        print("Первый вызов: {} ".format(line))
+        loop_(out[1:], line)
+    else:
+        if len(out) == 0:
+            return 1
+        len_ = len(line)
+        line *= len(out[0])
+        print("Умножение: {} ".format(line))
+        i = 0
+        for L in out[0]:
+            for j in range(len_):
+                line[i] = line[i] + L
+                i += 1
+        loop_(out[1:], line)
+
+
+loop_(values, lines)
+print(lines)
+
+print(set(lines))
+
