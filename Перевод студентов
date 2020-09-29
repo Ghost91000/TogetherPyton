@@ -1,0 +1,1162 @@
+<h3>Информация о результатах перевода, восстановления и отчисления.</h3>
+<div class="table">
+<table border="0">
+<thead>
+<tr><th><strong>Код</strong></th><th><strong>Наименование специальности/направления</strong></th><th><strong>Уровень образования</strong></th><th><strong>Форма обучения</strong></th><th><strong>Численность обучающихся, переведенных в другие образовательные организации</strong>&nbsp;</th><th><strong>Численность обучающихся, переведенных из других образовательных организаций&nbsp;</strong></th><th><strong>Численность восстановленных обучающихся</strong></th><th><strong>Численность отчисленных обучающихся</strong></th></tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">05.03.06.</span></td>
+<td colspan="1" rowspan="3">Экология и природопользование</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">05.04.06.</span></td>
+<td colspan="1" rowspan="3">Экология и природопользование</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">09.03.02.</span></td>
+<td colspan="1" rowspan="3">Информационные системы и технологии</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="BudgAmount">5</td>
+<td itemprop="PaidAmount">12</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">1</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">09.04.02.</span></td>
+<td colspan="1" rowspan="3">Информационные системы и технологии</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">15.03.02.</span></td>
+<td colspan="1" rowspan="3">Технологические машины и оборудование</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">15.04.02.</span></td>
+<td colspan="1" rowspan="3">Технологические машины и оборудование</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">15.03.04.</span></td>
+<td colspan="1" rowspan="3">Автоматизация технологических процессов и производств</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">8</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">15.04.04.</span></td>
+<td colspan="1" rowspan="3">Автоматизация технологических процессов и производств</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">23.03.01.</span></td>
+<td colspan="1" rowspan="3">Технология транспортных процессов</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">3</td>
+<td itemprop="PaidAmount">26</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="PaidAmount">1</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">23.04.01.</span></td>
+<td colspan="1" rowspan="3">Технология транспортных процессов</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">2</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">23.03.03.</span></td>
+<td colspan="1" rowspan="3">Эксплуатация транспортно-технологических машин и комплексов</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="PaidAmount">13</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">8</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">4</td>
+<td itemprop="PaidAmount">10</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">23.04.03.</span></td>
+<td colspan="1" rowspan="3">Эксплуатация транспортно-технологических машин и комплексов</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">1</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">35.03.01.</span></td>
+<td colspan="1" rowspan="3">Лесное дело</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">3</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">35.04.01.</span></td>
+<td colspan="1" rowspan="3">Лесное дело</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">1</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">35.03.02.</span></td>
+<td colspan="1" rowspan="3">Технология лесозаготовительных и деревоперерабатывающих производств</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="PaidAmount">7</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">5</td>
+<td itemprop="PaidAmount">2</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">35.04.02.</span></td>
+<td colspan="1" rowspan="3">Технология лесозаготовительных и деревоперерабатывающих производств</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">5</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">35.03.10.</span></td>
+<td colspan="1" rowspan="3">Ландшафтная архитектура</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="PaidAmount">6</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">2</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="PaidAmount">5</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">35.04.09.</span></td>
+<td colspan="1" rowspan="3">Ландшафтная архитектура</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">38.03.01</span></td>
+<td colspan="1" rowspan="3">Экономика</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">3</td>
+<td itemprop="PaidAmount">33</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">4</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">38.04.01</span></td>
+<td colspan="1" rowspan="3">Экономика</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">2</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">1</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">38.03.02</span></td>
+<td colspan="1" rowspan="3">Менеджмент</td>
+<td rowspan="3">бакалавриат</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="PaidAmount">13</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">38.04.02</span></td>
+<td colspan="1" rowspan="3">Менеджмент</td>
+<td rowspan="3">магистратура</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">01.06.01</span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Математика и механика</span></td>
+<td rowspan="3">высшее образование&nbsp;&mdash; подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">03.06.01</span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Физика и астрономия</span></td>
+<td rowspan="3">высшее образование&nbsp;&mdash; подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">05.06.01</span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Науки о Земле</span></td>
+<td rowspan="3">высшее образование&nbsp;&mdash; подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">1</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">09.06.01</span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Информатика и вычислительная техника</span></td>
+<td rowspan="3">высшее образование&nbsp;&mdash; подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">23.06.01</span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Техника и технологии наземного транспорта</span></td>
+<td rowspan="3">высшее образование&nbsp;&mdash; подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">35.06.02</span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Лесное хозяйство</span></td>
+<td rowspan="3">высшее образование&nbsp;&mdash; подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">35.06.04</td>
+<td colspan="1" rowspan="3">Технологии, средства механизации и энергетическое оборудование в сельском, лесном и рыбном хозяйстве</td>
+<td rowspan="3">высшее образование&nbsp;&mdash; подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">38.06.01</td>
+<td colspan="1" rowspan="3">Экономика</td>
+<td rowspan="3">высшее образование&nbsp;&mdash; подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">46.06.01</td>
+<td colspan="1" rowspan="3">Исторические науки и археология</td>
+<td rowspan="3">высшее образование&nbsp;&mdash; подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">47.06.01</span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Философия, этика и религиоведение</span></td>
+<td rowspan="3">высшее образование&nbsp;&mdash; подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">23.01.17</span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Мастер по ремонту и обслуживанию автомобилей</span></td>
+<td rowspan="3">среднее профессиональное образование по профессии</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">4</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">23.02.01</span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Организация перевозок и управление на автомобильном транспорте</span></td>
+<td rowspan="3">среднее профессиональное образование по специальности</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3"><span itemprop="EduCode"><span itemprop="EduCode">23.02.07</span></span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode"><span itemprop="EduCode">Техническое обслуживание и ремонт двигателей,<br />систем и агрегатов автомобилей</span></span></td>
+<td rowspan="3">среднее профессиональное образование по специальности</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">2</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">2</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">35.01.19<span itemprop="EduCode"></span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Мастер садово-паркового и ландшафтного строительства</span></td>
+<td rowspan="3">среднее профессиональное образование по специальности</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">1</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">35.02.12<span itemprop="EduCode"></span></td>
+<td colspan="1" rowspan="3"><span itemprop="EduCode">Садово-парковое и ландшафтное строительство</span></td>
+<td rowspan="3">среднее профессиональное образование по специальности</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">1</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="PaidAmount">0</td>
+</tr>
+<tr>
+<td itemprop="BudgAmount" colspan="1" rowspan="3">01.06.01</td>
+<td colspan="1" rowspan="3">Математика и механика</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="BudgAmount" colspan="1" rowspan="3">03.06.01</td>
+<td colspan="1" rowspan="3">Физика и астрономия</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="BudgAmount" colspan="1" rowspan="3">05.06.01</td>
+<td colspan="1" rowspan="3">Науки о Земле</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="BudgAmount" colspan="1" rowspan="3">09.06.01</td>
+<td colspan="1" rowspan="3">Информатика и вычислительная техника</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">20.06.01</td>
+<td colspan="1" rowspan="3">Техносфераная безопасность</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">23.06.01</td>
+<td colspan="1" rowspan="3">Техника и технологии наземного транспорта</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">35.06.02</td>
+<td colspan="1" rowspan="3">Лесное хозяйство</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">35.06.04</td>
+<td colspan="1" rowspan="3">Технологии, средства механизации и энергетическое оборудование в сельском, лесном и рыбном хозяйстве</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">38.06.01</td>
+<td colspan="1" rowspan="3">Экономика</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">46.06.01</td>
+<td colspan="1" rowspan="3">Исторические науки и археология</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="3">47.06.01</td>
+<td colspan="1" rowspan="3">Философия, этика и религоведение</td>
+<td colspan="1" rowspan="3">высшее образование - подготовка кадров высшей квалификации</td>
+<td itemprop="EduForm">очная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+<tr>
+<td itemprop="EduForm">очно-заочная</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+<td itemprop="BudgAmount">0</td>
+</tr>
+</tbody>
+</table>
+</div>
